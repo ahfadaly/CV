@@ -239,8 +239,8 @@
 .bold .resume-content-section .section .section-header {
     /*text-transform: uppercase;*/
     color: #008fd5;
-    border-top: 5px id #008fd5;
-    padding-top: 0.5em;
+       border-top: 13px solid #008fd5;
+      padding-top: 0.5em;
 }
 .section .section-header span{
  font-weight: bold;
